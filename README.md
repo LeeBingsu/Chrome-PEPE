@@ -5,4 +5,4 @@
 5. 사이트에 들어가면 모든 이미지가 바뀜
 6. chrome://extensions 에서 on / off 가능
 
--> [다운로드](https://docs.google.com/uc?export=download&id=1PJ6HrK1QScwWoPg3eeufjBIJCLH7C-63)
+-> [다운로드](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/pepe.zip)
