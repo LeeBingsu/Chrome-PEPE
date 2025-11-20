@@ -10,3 +10,4 @@
 -> [miku](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/miku.zip)
 -> [영상 배속기](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/speed_vd.zip)
 -> [드래그프리](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/dg.zip)
+-> [픽시브 다운로더](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/pd.zip)
