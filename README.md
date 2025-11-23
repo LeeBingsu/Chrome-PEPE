@@ -15,3 +15,5 @@
 -> [드래그프리](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/dg.zip)
 
 -> [픽시브 다운로더](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/pd.zip)
+
+-> [HTML 다운로더](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/sh.zip)
