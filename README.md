@@ -17,3 +17,5 @@
 -> [픽시브 다운로더](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/pd.zip)
 
 -> [HTML 다운로더](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/sh.zip)
+
+-> [Boom](https://github.com/LeeBingsu/Chrome-PEPE/raw/refs/heads/main/boom.zip)
